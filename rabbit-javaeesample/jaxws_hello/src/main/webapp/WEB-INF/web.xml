@@ -20,6 +20,10 @@
     <servlet>
         <servlet-name>SayHelloServlet</servlet-name>
         <servlet-class>com.dell.rabbit.javaeesample.jaxws.SayHelloServlet</servlet-class>
+        <init-param>
+            <param-name>WSDL_FILE</param-name>
+            <param-value>/WEB-INF/classes/META-INF/wsdl/HelloWs.wsdl</param-value>
+        </init-param>
     </servlet>
     <servlet-mapping>
         <servlet-name>SayHelloServlet</servlet-name>
