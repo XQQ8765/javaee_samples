@@ -5,5 +5,7 @@ mvn archetype:generate -DgroupId=com.dell.rabbit.javaeesample.jaxws -DartifactId
 
 http://localhost:8988/jaxws_hello/HelloWs
 
-mvn archetype:create -DgroupId=com.dell.rabbit.javaeesample.jaxws3 -DartifactId=jaxws_hello3 -DarchetypeArtifactId=maven-archetype-quickstart
-mvn archetype:create -DgroupId=com.dell.rabbit.javaeesample.jaxws3 -DartifactId=jaxws_hello3 -DarchetypeArtifactId=maven-archetype-webapp
+3. Create JMS webapp module
+mvn archetype:generate -DgroupId=com.dell.rabbit.javaeesample.jms -DartifactId=jms_sample -DarchetypeArtifactId=maven-archetype-webapp -DinteractiveMode=false
+
+http://localhost:8988/jms_sample/sendjms?messagesCount=2&content=Welcome
