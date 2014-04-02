@@ -52,7 +52,7 @@ public class JMSListener implements ServletContextListener, MessageListener {
     @Override
     public void onMessage(Message message) {
         try {
-            String messageId = message.getJMSMessageID();
+            logger.info("Received message: message:" + message);
             Enumeration propertyNames = message.getPropertyNames();
             if (propertyNames != null && propertyNames.hasMoreElements()) {
                 String propertyName = (String) propertyNames.nextElement();
