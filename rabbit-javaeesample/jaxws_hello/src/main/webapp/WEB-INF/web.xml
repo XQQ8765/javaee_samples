@@ -15,19 +15,27 @@
     </servlet>
     <servlet-mapping>
         <servlet-name>helloWs</servlet-name>
-        <url-pattern>/HelloWs</url-pattern>
+        <url-pattern>/service/HelloWs</url-pattern>
     </servlet-mapping>
     <servlet>
         <servlet-name>SayHelloServlet</servlet-name>
-        <servlet-class>com.dell.rabbit.javaeesample.jaxws.SayHelloServlet</servlet-class>
+        <servlet-class>com.dell.rabbit.javaeesample.servlet.SayHelloServlet</servlet-class>
         <init-param>
             <param-name>WSDL_FILE</param-name>
-            <param-value>/WEB-INF/classes/META-INF/wsdl/HelloWs.wsdl</param-value>
+            <param-value>/META-INF/wsdl/HelloWs.wsdl</param-value>
         </init-param>
     </servlet>
     <servlet-mapping>
         <servlet-name>SayHelloServlet</servlet-name>
-        <url-pattern>/sayHello</url-pattern>
+        <url-pattern>/action/sayHello</url-pattern>
+    </servlet-mapping>
+    <servlet>
+        <servlet-name>MySQLDBServlet</servlet-name>
+        <servlet-class>com.dell.rabbit.javaeesample.servlet.MySQLDBServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>MySQLDBServlet</servlet-name>
+        <url-pattern>/action/accessMySQL</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>120</session-timeout>
