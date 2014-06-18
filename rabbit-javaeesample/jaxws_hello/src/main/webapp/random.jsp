@@ -15,19 +15,35 @@
   limitations under the License.
 --%>
 <%@ page import="java.util.Random" %>
+
+<%String foglightAPHost = "10.8.255.248";%>
+<%String foglightRequestUUID = "b1c12c67-4554-4eb9-b995-05919e67ff52";%>
+
 <html>
   <head>
+    <meta name="FoglightAPHost" content="<%=foglightAPHost%>"/>
+    <meta name="FoglightRequestUUID" content="<%=foglightRequestUUID%>"/>
+    <script type="text/javascript" src="instr-orig.js"></script>
     <title>Random page</title>
+
   </head>
   <body>
 	<%
 		Random r = new Random(); 
-		int sleepSeconds = r.nextInt(80);
+		int sleepSeconds = r.nextInt(30);
 		if (sleepSeconds <= 0) {
 			sleepSeconds = 1;
 		}
 		Thread.sleep(sleepSeconds * 1000L);
 	%>
-	<h1>This page has sleeping <%=sleepSeconds%> seconds.</h1>
+	<h3>This page includes Browser Instrumentation.</h3>
+	<h3>This page has sleeping <%=sleepSeconds%> seconds.</h3>
+	<h3>sessionID:<%=session.getId() %></h3>
+
+	<h3>Variables:</h3>
+	<ul>
+	    <li>FoglightAPHost: <%=foglightAPHost%></li>
+	    <li>FoglightRequestUUID: <%=foglightRequestUUID%></li>
+	</ul>
   </body>
 </html>

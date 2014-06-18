@@ -202,27 +202,18 @@
       <file leaf-file-name="SayHelloWSCaller.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/internal/SayHelloWSCaller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="25" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="825">
+            <state line="18" column="86" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="imports" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.txt" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.txt">
+      <file leaf-file-name="context.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/META-INF/context.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="456" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jaxws_hello/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="49" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1850">
+            <state line="28" column="34" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.7268951" vertical-offset="0" max-vertical-offset="963">
               <folding />
             </state>
           </provider>
@@ -231,16 +222,16 @@
       <file leaf-file-name="HelloWs.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="17" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="900">
+            <state line="18" column="17" selection-start="486" selection-end="486" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1000">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWsService.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="HelloWsService.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="44" selection-start="441" selection-end="441" vertical-scroll-proportion="0.23124358" vertical-offset="0" max-vertical-offset="1750">
+            <state line="21" column="55" selection-start="731" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1925">
               <folding />
             </state>
           </provider>
@@ -250,9 +241,7 @@
         <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/SayHelloServlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="37" column="124" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1475">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -260,10 +249,26 @@
       <file leaf-file-name="MySQLDBServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/MySQLDBServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="52" column="52" selection-start="2061" selection-end="2061" vertical-scroll-proportion="0.0" vertical-offset="514" max-vertical-offset="1550">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="38" column="95" selection-start="1202" selection-end="1338" vertical-scroll-proportion="0.0" vertical-offset="950" max-vertical-offset="1550">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ErrorResponseCodeServlet.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/ErrorResponseCodeServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="random.jsp" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/random.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="38" column="71" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.0" vertical-offset="412" max-vertical-offset="1375">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -271,7 +276,16 @@
       <file leaf-file-name="web.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="37" column="21" selection-start="1638" selection-end="1657" vertical-scroll-proportion="0.0" vertical-offset="214" max-vertical-offset="1200">
+            <state line="41" column="67" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1400">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="instr-orig.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/instr-orig.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="74" column="65" selection-start="1909" selection-end="1909" vertical-scroll-proportion="9.392858" vertical-offset="2113" max-vertical-offset="8125">
               <folding />
             </state>
           </provider>
@@ -318,7 +332,6 @@
         <option value="$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/jaxws/SayHelloServlet.java" />
         <option value="$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/sun-jaxws.xml" />
         <option value="$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/service/SayHelloWSCaller.java" />
-        <option value="$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/web.xml" />
         <option value="$PROJECT_DIR$/README.txt" />
         <option value="$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/internal/HelloWsService.java" />
         <option value="$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/internal/HelloWs.java" />
@@ -327,6 +340,10 @@
         <option value="$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/MySQLDBServlet.java" />
         <option value="$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/SayHelloServlet.java" />
         <option value="$PROJECT_DIR$/jaxws_hello/pom.xml" />
+        <option value="$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/ErrorResponseCodeServlet.java" />
+        <option value="$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/web.xml" />
+        <option value="$PROJECT_DIR$/jaxws_hello/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/jaxws_hello/src/main/webapp/random.jsp" />
       </list>
     </option>
   </component>
@@ -410,10 +427,6 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="rabbit-javaeesample" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -535,38 +548,12 @@
               <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
+              <option name="myItemId" value="webapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="jaxws_hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servlet" />
+              <option name="myItemId" value="META-INF" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -592,15 +579,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
+              <option name="myItemId" value="resources" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -631,48 +610,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="internal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="jaxws_hello" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="internal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -711,19 +648,19 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jaxws_hello\src\main\webapp" />
       <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jaxws_hello\src\main\java\com\dell\rabbit\javaeesample\internal\webservice\client" />
       <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jaxws_hello\src\main\java\com\dell\rabbit\javaeesample\internal" />
-      <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jaxws_hello\src\main\webapp" />
       <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jaxws_hello\src\main\resources" />
       <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jaxws_hello\src\main\webapp\META-INF" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jaxws_hello\src\main\webapp\META-INF\wsdl" />
       <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jaxws_hello\src\main\webapp\META-INF" />
       <recent name="D:\workspace\javaee_samples\rabbit-javaeesample\jms_sample\src\main\webapp" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
     </key>
   </component>
   <component name="RunManager" selected="Application.JMSBrokerServiceMain">
@@ -809,19 +746,6 @@
       <option name="PORT" value="5005" />
       <method />
     </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method />
-    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <module name="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -847,6 +771,19 @@
       <envs />
       <properties />
       <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method />
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
@@ -974,24 +911,25 @@
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938856" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31558186" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.31558186" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19583334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.195629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3295688" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Aspects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938856" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1072,13 +1010,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/sun-jaxws.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="79" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="10" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="700">
@@ -1184,11 +1115,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/index.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="275" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jaxws_hello/jaxws_hello.iws">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="10600" />
@@ -1233,16 +1159,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jms_sample/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="75" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350">
-          <folding />
-        </state>
+        <state line="8" column="75" selection-start="589" selection-end="589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350" />
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.7.0_05/src.zip!/java/util/logging/Logger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="503" column="73" selection-start="22117" selection-end="22117" vertical-scroll-proportion="0.0" vertical-offset="10450" max-vertical-offset="37225">
-          <folding />
-        </state>
+        <state line="503" column="73" selection-start="22117" selection-end="22117" vertical-scroll-proportion="0.0" vertical-offset="10450" max-vertical-offset="37225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/service/HelloWs.java">
@@ -1254,127 +1176,75 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jms_sample/src/main/java/com/dell/rabbit/javaeesample/jms/JMSListener.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="8" selection-start="8" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1600">
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
+        <state line="0" column="8" selection-start="8" selection-end="40" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1600" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jms_sample/src/main/java/com/dell/rabbit/javaeesample/jms/JMSBrokerServiceMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="83" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800">
-          <folding />
-        </state>
+        <state line="8" column="83" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="800" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jms_sample/src/main/webapp/META-INF/context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="57" selection-start="966" selection-end="966" vertical-scroll-proportion="0.4832" vertical-offset="198" max-vertical-offset="975">
-          <folding />
-        </state>
+        <state line="20" column="57" selection-start="966" selection-end="966" vertical-scroll-proportion="0.4832" vertical-offset="198" max-vertical-offset="975" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jms_sample/src/main/java/com/dell/rabbit/javaeesample/jms/JMSConstant.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425">
-          <folding />
-        </state>
+        <state line="7" column="11" selection-start="191" selection-end="191" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="425" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jms_sample/src/main/java/com/dell/rabbit/javaeesample/jms/JMSServlet.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="23" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="1875">
-          <folding />
-        </state>
+        <state line="19" column="23" selection-start="530" selection-end="530" vertical-scroll-proportion="0.0" vertical-offset="155" max-vertical-offset="1875" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jms_sample/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="14" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575">
-          <folding />
-        </state>
+        <state line="11" column="14" selection-start="700" selection-end="700" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="575" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jms_sample/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="19" selection-start="1165" selection-end="1320" vertical-scroll-proportion="1.3138138" vertical-offset="0" max-vertical-offset="1175">
-          <folding />
-        </state>
+        <state line="35" column="19" selection-start="1165" selection-end="1320" vertical-scroll-proportion="1.3138138" vertical-offset="0" max-vertical-offset="1175" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="46" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350">
+        <state line="6" column="46" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="49" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1850">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/sun-jaxws.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="118" selection-start="236" selection-end="236" vertical-scroll-proportion="0.075075075" vertical-offset="0" max-vertical-offset="666">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/META-INF/context.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="19" column="20" selection-start="932" selection-end="956" vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="875">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/random.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="30" selection-start="787" selection-end="787" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/internal/SayHelloWSCaller.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="25" selection-start="329" selection-end="329" vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="825">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/MySQLDBServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="52" column="52" selection-start="2061" selection-end="2061" vertical-scroll-proportion="0.0" vertical-offset="514" max-vertical-offset="1550">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/SayHelloServlet.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="37" column="124" selection-start="1403" selection-end="1403" vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1475">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/MySQLDBServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="95" selection-start="1202" selection-end="1338" vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1550">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/sun-jaxws.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="118" selection-start="236" selection-end="236" vertical-scroll-proportion="0.05070994" vertical-offset="0" max-vertical-offset="986">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="456" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/web.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="37" column="21" selection-start="1638" selection-end="1657" vertical-scroll-proportion="0.0" vertical-offset="214" max-vertical-offset="1200">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jaxws_hello/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="49" selection-start="783" selection-end="783" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1850">
+        <state line="10" column="94" selection-start="678" selection-end="678" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
           <folding />
         </state>
       </provider>
@@ -1388,7 +1258,65 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWsService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="44" selection-start="441" selection-end="441" vertical-scroll-proportion="0.23124358" vertical-offset="0" max-vertical-offset="1750">
+        <state line="21" column="55" selection-start="731" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1750">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/internal/SayHelloWSCaller.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="86" selection-start="430" selection-end="430" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="725">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/http/HttpServletResponse.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="42" column="32" selection-start="1406" selection-end="1430" vertical-scroll-proportion="0.0" vertical-offset="1050" max-vertical-offset="2425">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/instr-orig.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="65" selection-start="1909" selection-end="1909" vertical-scroll-proportion="9.392858" vertical-offset="2113" max-vertical-offset="8125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/index.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="32" selection-start="877" selection-end="877" vertical-scroll-proportion="0.0" vertical-offset="187" max-vertical-offset="1150">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/random.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="38" column="71" selection-start="1430" selection-end="1430" vertical-scroll-proportion="0.0" vertical-offset="412" max-vertical-offset="1375">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/java/com/dell/rabbit/javaeesample/servlet/ErrorResponseCodeServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="487" selection-end="487" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="475">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="67" selection-start="1838" selection-end="1838" vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1400">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jaxws_hello/src/main/webapp/META-INF/context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="34" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.7268951" vertical-offset="0" max-vertical-offset="963">
           <folding />
         </state>
       </provider>

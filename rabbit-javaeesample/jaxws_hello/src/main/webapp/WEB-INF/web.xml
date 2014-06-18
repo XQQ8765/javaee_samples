@@ -37,6 +37,14 @@
         <servlet-name>MySQLDBServlet</servlet-name>
         <url-pattern>/action/accessMySQL</url-pattern>
     </servlet-mapping>
+    <servlet>
+        <servlet-name>ErrorResponseCodeServlet</servlet-name>
+        <servlet-class>com.dell.rabbit.javaeesample.servlet.ErrorResponseCodeServlet</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>ErrorResponseCodeServlet</servlet-name>
+        <url-pattern>/action/errorResponseCode</url-pattern>
+    </servlet-mapping>
     <session-config>
         <session-timeout>120</session-timeout>
     </session-config>
