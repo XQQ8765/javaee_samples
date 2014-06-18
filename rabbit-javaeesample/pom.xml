@@ -20,7 +20,7 @@
 	    </plugins>  
 	</build>  
   <modules>
-    <module>jaxws_hello</module>
+    <module>rabbit_sample</module>
     <module>jms_sample</module>
   </modules>
 </project>

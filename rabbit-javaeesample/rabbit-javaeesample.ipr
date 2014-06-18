@@ -219,9 +219,9 @@
   </component>
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jaxws_hello/jaxws_hello.iml" filepath="$PROJECT_DIR$/jaxws_hello/jaxws_hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/jms_sample/jms_sample.iml" filepath="$PROJECT_DIR$/jms_sample/jms_sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/rabbit-javaeesample.iml" filepath="$PROJECT_DIR$/rabbit-javaeesample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rabbit_sample/rabbit_sample.iml" filepath="$PROJECT_DIR$/rabbit_sample/rabbit_sample.iml" />
     </modules>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_1_5" assert-keyword="true" jdk-15="true" project-jdk-name="1.7" project-jdk-type="JavaSDK" />
