@@ -39,16 +39,23 @@ public class MySQLDBServlet extends HttpServlet {
                       HttpServletResponse response) throws IOException, ServletException {
         try {
             DataSource dataSource = (DataSource) envContext.lookup(DATASOURCE_NAME);
-            String sql = "select name, value from information_schema.settings";
+            String sql = "select TABLE_NAME, TABLE_TYPE from information_schema.TABLES";
             java.sql.Connection connection = dataSource.getConnection();
             PreparedStatement statement = connection.prepareStatement(sql);
             ResultSet resultSet = statement.executeQuery();
+            StringBuilder sb = new StringBuilder();
             while (resultSet.next()) {
-                resultSet.getString("name");
-                resultSet.getString("value");
+                String tableName = resultSet.getString("TABLE_NAME");
+                String tableType = resultSet.getString("TABLE_TYPE");
+                sb.append("TableName:");
+                sb.append(tableName);
+                sb.append(", TableType:");
+                sb.append(tableType);
+                sb.append("<br/>");
             }
-            logger.info("Executed sql: " + sql);
+            logger.info("Executed sql: " + sql + "Result:" + sb.toString());
             response.getWriter().println("Executed SQL : " + sql);
+            response.getWriter().println("Executed Result : " + sb.toString());
         } catch (Exception e) {
             throw new ServletException(e);
         }

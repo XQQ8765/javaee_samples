@@ -202,10 +202,8 @@
       <file leaf-file-name="SayHelloWSCaller.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/SayHelloWSCaller.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="40" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="825">
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state line="20" column="40" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0" vertical-offset="500" max-vertical-offset="825">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -213,7 +211,7 @@
       <file leaf-file-name="HelloWs.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/service/HelloWs.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="22" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="600">
+            <state line="10" column="22" selection-start="258" selection-end="258" vertical-scroll-proportion="0.0" vertical-offset="250" max-vertical-offset="650">
               <folding />
             </state>
           </provider>
@@ -222,7 +220,7 @@
       <file leaf-file-name="SayHelloWSCallerTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rabbit_sample/src/test/java/com/dell/rabbit/javaeesample/service/SayHelloWSCallerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="19" column="71" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
+            <state line="19" column="71" selection-start="644" selection-end="644" vertical-scroll-proportion="0.0" vertical-offset="475" max-vertical-offset="700">
               <folding />
             </state>
           </provider>
@@ -231,16 +229,16 @@
       <file leaf-file-name="SayHelloServlet.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/servlet/SayHelloServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="40" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0" vertical-offset="313" max-vertical-offset="1325">
+            <state line="30" column="40" selection-start="1056" selection-end="1056" vertical-scroll-proportion="0.0" vertical-offset="750" max-vertical-offset="1475">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HelloWs.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWs.java">
+      <file leaf-file-name="README.txt" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="17" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="900">
+            <state line="6" column="65" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="550">
               <folding />
             </state>
           </provider>
@@ -249,7 +247,7 @@
       <file leaf-file-name="HelloWsService.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWsService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="37" selection-start="450" selection-end="715" vertical-scroll-proportion="0.0" vertical-offset="113" max-vertical-offset="1750">
+            <state line="20" column="37" selection-start="450" selection-end="715" vertical-scroll-proportion="0.0" vertical-offset="500" max-vertical-offset="1925">
               <folding />
             </state>
           </provider>
@@ -258,7 +256,7 @@
       <file leaf-file-name="pom.xml" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="37" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="775">
+            <state line="5" column="37" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="775">
               <folding />
             </state>
           </provider>
@@ -267,17 +265,19 @@
       <file leaf-file-name="random.jsp" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/random.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="31" column="16" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1025">
+            <state line="31" column="16" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="1025">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.jsp" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/index.jsp">
+      <file leaf-file-name="MySQLDBServlet.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/servlet/MySQLDBServlet.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="34" column="4" selection-start="859" selection-end="859" vertical-scroll-proportion="0.5714286" vertical-offset="486" max-vertical-offset="1175">
-              <folding />
+            <state line="50" column="75" selection-start="2045" selection-end="2045" vertical-scroll-proportion="0.5072614" vertical-offset="411" max-vertical-offset="1375">
+              <folding>
+                <element signature="imports" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -285,8 +285,10 @@
       <file leaf-file-name="HelloWs.wsdl" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/META-INF/wsdl/HelloWs.wsdl">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="148" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="925">
-              <folding />
+            <state line="18" column="148" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="925">
+              <folding>
+                <marker date="1403077758836" expanded="true" signature="529:1818" placeholder="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -351,6 +353,7 @@
         <option value="$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/SayHelloWSCaller.java" />
         <option value="$PROJECT_DIR$/rabbit_sample/src/test/java/com/dell/rabbit/javaeesample/service/SayHelloWSCallerTest.java" />
         <option value="$PROJECT_DIR$/rabbit_sample/src/main/webapp/index.jsp" />
+        <option value="$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/servlet/MySQLDBServlet.java" />
       </list>
     </option>
   </component>
@@ -412,7 +415,7 @@
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
-    <option name="STATE" value="2" />
+    <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
@@ -427,7 +430,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -460,309 +462,10 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WEB-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="webapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="META-INF" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wsdl" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="servlet" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="internal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit-javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="rabbit_sample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="javaeesample" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="internal" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="client" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="ProjectViewSettings">
@@ -1074,7 +777,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1096" extended-state="7" />
+    <frame x="1912" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -1088,20 +791,20 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="IvyIDEA" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148335" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.195629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32896066" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32896066" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Aspects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32938856" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3148335" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="EJB" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="CVS" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -1181,6 +884,41 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="17" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="450" max-vertical-offset="1000" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWsService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="37" selection-start="450" selection-end="715" vertical-scroll-proportion="0.0" vertical-offset="500" max-vertical-offset="1925">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="37" selection-start="403" selection-end="403" vertical-scroll-proportion="0.0" vertical-offset="125" max-vertical-offset="775">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/random.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="16" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="1025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/META-INF/wsdl/HelloWs.wsdl">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="148" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="925">
+          <folding>
+            <marker date="1403077758836" expanded="true" signature="529:1818" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="45" selection-start="459" selection-end="459" vertical-scroll-proportion="0.0" vertical-offset="944" max-vertical-offset="1850">
@@ -1190,9 +928,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="700">
-          <folding />
-        </state>
+        <state line="22" column="10" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="700" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
@@ -1216,9 +952,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/WEB-INF/sun-jaxws.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="79" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="225">
-          <folding />
-        </state>
+        <state line="2" column="79" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/index.jsp">
@@ -1228,9 +962,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="10" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="700">
-          <folding />
-        </state>
+        <state line="22" column="10" selection-start="982" selection-end="982" vertical-scroll-proportion="0.0" vertical-offset="550" max-vertical-offset="700" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.txt">
@@ -1249,9 +981,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/WEB-INF/sun-jaxws.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="79" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="225">
-          <folding />
-        </state>
+        <state line="2" column="79" selection-start="197" selection-end="197" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/index.jsp">
@@ -1261,9 +991,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="45" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="325">
-          <folding />
-        </state>
+        <state line="2" column="45" selection-start="127" selection-end="127" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="325" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/pom.xml">
@@ -1343,13 +1071,6 @@
         <state line="6" column="46" selection-start="448" selection-end="448" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="350" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/servlet/MySQLDBServlet.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="95" selection-start="1202" selection-end="1338" vertical-scroll-proportion="0.0" vertical-offset="489" max-vertical-offset="1550">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/javax/servlet/servlet-api/2.5/servlet-api-2.5.jar!/javax/servlet/http/HttpServletResponse.class">
       <provider selected="true" editor-type-id="text-editor">
         <state line="42" column="32" selection-start="1406" selection-end="1430" vertical-scroll-proportion="0.0" vertical-offset="1050" max-vertical-offset="2425" />
@@ -1357,9 +1078,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/META-INF/context.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="28" column="34" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875">
-          <folding />
-        </state>
+        <state line="28" column="34" selection-start="1288" selection-end="1288" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="875" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/servlet/ErrorResponseCodeServlet.java">
@@ -1383,25 +1102,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/random.jsp">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="31" column="16" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1025">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/WEB-INF/sun-jaxws.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="118" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="67" selection-start="438" selection-end="456" vertical-scroll-proportion="0.1920123" vertical-offset="0" max-vertical-offset="651">
-          <folding />
-        </state>
+        <state line="2" column="118" selection-start="236" selection-end="236" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWsService.java">
@@ -1413,9 +1116,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="143" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1400">
-          <folding />
-        </state>
+        <state line="7" column="143" selection-start="421" selection-end="421" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1400" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/service/HelloWs.java">
@@ -1427,17 +1128,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/webservice/client/HelloWs.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="17" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="900">
-          <folding />
-        </state>
+        <state line="18" column="17" selection-start="488" selection-end="488" vertical-scroll-proportion="0.0" vertical-offset="138" max-vertical-offset="900" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/internal/SayHelloWSCaller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="20" column="40" selection-start="545" selection-end="545" vertical-scroll-proportion="0.0" vertical-offset="50" max-vertical-offset="825">
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1458,14 +1155,37 @@
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/META-INF/wsdl/HelloWs.wsdl">
       <provider selected="true" editor-type-id="text-editor">
         <state line="18" column="148" selection-start="1243" selection-end="1243" vertical-scroll-proportion="0.0" vertical-offset="300" max-vertical-offset="925">
-          <folding />
+          <folding>
+            <marker date="1403077758836" expanded="true" signature="529:1818" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/index.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="34" column="4" selection-start="859" selection-end="859" vertical-scroll-proportion="0.5714286" vertical-offset="486" max-vertical-offset="1175">
+        <state line="23" column="27" selection-start="616" selection-end="616" vertical-scroll-proportion="0.13971743" vertical-offset="486" max-vertical-offset="1175" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="65" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="550">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/webapp/random.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="16" selection-start="1068" selection-end="1068" vertical-scroll-proportion="0.0" vertical-offset="79" max-vertical-offset="1025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/rabbit_sample/src/main/java/com/dell/rabbit/javaeesample/servlet/MySQLDBServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="75" selection-start="2045" selection-end="2045" vertical-scroll-proportion="0.5072614" vertical-offset="411" max-vertical-offset="1375">
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
