@@ -37,10 +37,11 @@ public class MySQLDBServlet extends HttpServlet {
 
     public void doGet(HttpServletRequest request,
                       HttpServletResponse response) throws IOException, ServletException {
+        java.sql.Connection connection = null;
         try {
             DataSource dataSource = (DataSource) envContext.lookup(DATASOURCE_NAME);
             String sql = "select TABLE_NAME, TABLE_TYPE from information_schema.TABLES";
-            java.sql.Connection connection = dataSource.getConnection();
+            connection = dataSource.getConnection();
             PreparedStatement statement = connection.prepareStatement(sql);
             ResultSet resultSet = statement.executeQuery();
             StringBuilder sb = new StringBuilder();
@@ -58,6 +59,14 @@ public class MySQLDBServlet extends HttpServlet {
             response.getWriter().println("Executed Result : " + sb.toString());
         } catch (Exception e) {
             throw new ServletException(e);
+        } finally {
+            if (connection != null) {
+                try {
+                    connection.close();
+                } catch (SQLException e) {
+                    throw new ServletException("Error occurs when close connection", e);
+                }
+            }
         }
     }
 }
